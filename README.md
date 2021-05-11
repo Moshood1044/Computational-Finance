@@ -1,2 +1,0 @@
-# Computational-Finance
-Financial code
